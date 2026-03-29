@@ -4,7 +4,7 @@
   "website": "https://spyralmc.it",
   "description": "Italy's first anarchy SMP server",
   "addresses": [
-    "play.spyralmc.it"
+    "spyralmc.it"
   ],
   "primaryAddress": "play.spyralmc.it",
   "minecraftVersions": [
